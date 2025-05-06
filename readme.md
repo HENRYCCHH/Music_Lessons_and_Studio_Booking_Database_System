@@ -12,6 +12,14 @@ The system allows customers to:
 - Book **studio rooms** for practice sessions.
 - Track **payments and transaction details**.
 
+##  Entity-Relationship Diagram (ERD)
+
+The **ERD** (available in this repository) visually represents the relationships between the tables, showing how customers, teachers, payments, lessons, and studio bookings are connected.
+
+
+![ERD diagram ](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD%20For%20Master%20Piano%20Institute%20Music%20Lesson%20Database%20v10.pdf)
+
+
 ##  Database Structure
 
 The database consists of several tables to manage customers, teachers, lessons, studio bookings, payments, and tokens. Below are key entities in the system:
@@ -38,9 +46,8 @@ The database consists of several tables to manage customers, teachers, lessons, 
 ###  **Views**
 - **`TeacherPrivateLesson`**: A view that provides a summary of private lessons assigned to teachers.
 
-##  Entity-Relationship Diagram (ERD)
 
-The **ERD** (available in this repository) visually represents the relationships between the tables, showing how customers, teachers, payments, lessons, and studio bookings are connected.
+
 
 ##  Files Included
 - `master_piano_institute.sql` – SQL schema including table creation, constraints, and sample data.
