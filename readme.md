@@ -17,7 +17,8 @@ The system allows customers to:
 The **ERD** (available in this repository) visually represents the relationships between the tables, showing how customers, teachers, payments, lessons, and studio bookings are connected.
 
 
-![ERD diagram ](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD%20For%20Master%20Piano%20Institute%20Music%20Lesson%20Database%20v10.pdf)
+![ERD diagram](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD_For_Master_Piano_Institute_Music_Lesson_Database.png)
+[ERD Diargram](https://github.com/HENRYCCHH/Music_Lessons_and_Studio_Booking_Database_System/blob/main/ERD%20For%20Master%20Piano%20Institute%20Music%20Lesson%20Database%20v10.pdf)
 
 
 ##  Database Structure
